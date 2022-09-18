@@ -1,15 +1,13 @@
 ---
-title: "Projects"
-permalink: "/projects/"
+title: "Publication and Conferences"
+permalink: "/publication/"
 layout: page
 ---
 
-##  Compare planning between AI and humans
-
-Wei Ji Ma lab Center for Neural Science, NYU
- - Trained Deep Reinforcement learning models (AlphaZero type agents) to play a planning task of intermediate complexity.
- - Analyzed features learned by the trained Deep Reinforcement learning networks.
- - Studied the learning and planning mechanisms of AlphaZero agents and compared those to a human planning model.
+## Publications
+[X. Lin.*, Z.Zheng.*, J.Topping.*, W.Ma, Comparing Machine and human learning in a planning task of intermediate complexity
+(Proceedings of the Annual Meeting of the Cognitive Science Society, 2022; The Multi-disciplinary Conference on Reinforcement
+Learning and Decision Making, 2022)](https://escholarship.org/uc/item/8wm748d8)
 
 <!-- Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done. -->
 
