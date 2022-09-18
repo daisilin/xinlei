@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.html", title: "Projects"}
   - {file: "publications.md", title: "Publications and Conferences"}
-  - {file: "daisy_resume.pdf", title: "Resume"}
+  - {url: "/daisy_resume.pdf", title: "Resume"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
