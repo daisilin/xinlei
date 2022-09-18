@@ -1,12 +1,17 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Projects"
+permalink: "/projects/"
 layout: page
 ---
 
-## Installation
+##  Compare planning between AI and humans
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Wei Ji Ma lab Center for Neural Science, NYU
+ - Trained Deep Reinforcement learning models (AlphaZero type agents) to play a planning task of intermediate complexity.
+ - Analyzed features learned by the trained Deep Reinforcement learning networks.
+ - Studied the learning and planning mechanisms of AlphaZero agents and compared those to a human planning model.
+
+<!-- Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done. -->
 
 ## Features
 
