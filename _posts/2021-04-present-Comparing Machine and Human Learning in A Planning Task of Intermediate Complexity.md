@@ -1,5 +1,5 @@
 ---
-title: "2021-04-present-Comparing Machine and Human Learning in A Planning Task of Intermediate Complexity"
+title: "2021-04-present-Comparing-Machine-and-Human-Learning-in-A-Planning-Task-of-Intermediate-Complexity"
 layout: post
 ---
 
