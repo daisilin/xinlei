@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "resume"}
-  - {file: "README.md", title: "About me"}
+  - {file: "Xinlei_Lin_resume_2022_Sept.pdf", title: "Resume"}
+  - {file: "", title: "Projects"}
+  - {file: "README.md", title: "Publications and Conferences"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xl1005@nyu.edu"}
