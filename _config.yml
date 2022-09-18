@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.html", title: "Projects"}
-  - {file: "README.md", title: "Publications and Conferences"}
+  - {file: "publications.md", title: "Publications and Conferences"}
   - {file: "Xinlei_Lin_resume_2022_Sept.pdf", title: "Resume"}
 
 
