@@ -16,9 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "projects.html", title: "Projects"}
+  - {file: "projects.md", title: "Projects"}
   - {file: "publications.md", title: "Publications and Conferences"}
   - {url: "/daisy_resume.pdf", title: "Resume"}
+  - {file: "talks.html", title: "Talks"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
