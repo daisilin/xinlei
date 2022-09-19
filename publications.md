@@ -10,3 +10,4 @@ layout: page
 
 ## Conferences
 
+[Comparing Machine And Human Learning In A Planning Task Of Intermediate Complexity](/rldm2022.jpg)Proceedings of the Annual Meeting of the Cognitive Science Society, 2022; The Multi-disciplinary Conference on Reinforcement Learning and Decision Making, 2022
