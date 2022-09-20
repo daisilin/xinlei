@@ -13,4 +13,6 @@ Comparing Machine And Human Learning In A Planning Task Of Intermediate Complexi
 
 ![title](/rldm2022.jpg)
 
+Dissection of inter-area interactions of motor circuits (Simons Collaboration for the Global Brain Annual Meeting, 2022; Society for Neuroscience Annual Meeting, 2022)
+
 
