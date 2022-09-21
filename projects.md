@@ -4,7 +4,7 @@ permalink: "/projects/"
 layout: page
 ---
 
-## Compare planning between AI and humans
+## Compare planning between AI and humans [[Talk]](/0304_CNS_Labtalk.pdf)
 Wei Ji Ma lab, Center for Neural Science, NYU (2021.5 — Present)
  - Trained Deep Reinforcement learning models (AlphaZero type agents) to play a planning task of intermediate complexity.
  - Analyzed features learned by the trained Deep Reinforcement learning networks.
@@ -20,3 +20,25 @@ allocation methods.
 Wei Ji Ma lab, Center for Neural Science, NYU (2020.10 — Present)
  - Coded a battery of 9 planning tasks and cognitive tasks to run a large web-based online study.
  - Investigated the individual differences and latent structure of planning decisions and modelled how planning is related to basic cognitive abilities.
+
+## Using Artificail Neural Networks to Approximate Bayesian Inference
+Computational Cognitive Modelling final project, Center for Data Science, NYU (2021.2 — 2021.5)
+ - Trained artificial neural networks (ANNs) on a task that requires inductive reasoning and found that ANNs can perform these tasks using Bayesian-like strategies without the need for an explicit computation of the log likelihood
+
+## “Double Descent” and Deep Gaussian Processes
+Bayesian Machine Learning final project, Center for Data Science, NYU (2020.10 — 202012)
+ - Investigated the “Double Descent” phenomenon in Deep Gaussian Processes by looking into performance of testing error as a function of model depth/width/kernel complexity![image](https://user-images.githubusercontent.com/61088044/191392120-2df22eb7-52bb-4d61-882b-e5f0e6b895af.png)
+
+## Hidden Markov Models
+Eero Simoncelli Lab, Center for Neural Science, NYU (2020.2 - 2020.9)
+ - Used Hidden Markov Model to model the context-dependent representations of Visual Cortex.
+
+## Automatic behavioral tracking 
+Christine Constantinople lab, Center for Neural Science, NYU (2019.9 - 2019.12)
+ - Developed behavioral analysis pipeline by training a Convolutional Neural Network to automatically track head angles of rats
+
+## Large neural population analysis 
+Takaki Komiyama Lab, UCSD (2017.1 — 2019.6)
+ - Analyzed large-scale activities of over 8000 neurons and investigated the source of information segregation for motor control
+
+ 
