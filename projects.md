@@ -3,6 +3,7 @@ title: "Research Projects"
 permalink: "/projects/"
 layout: page
 ---
+# Thesis projects:
 
 ## Compare planning between AI and humans [[Talk]](/0304_CNS_Labtalk.pdf)
 Wei Ji Ma lab, Center for Neural Science, NYU (2021.5 — Present)
@@ -20,6 +21,8 @@ allocation methods.
 Wei Ji Ma lab, Center for Neural Science, NYU (2020.10 — Present)
  - Coded a battery of 9 planning tasks and cognitive tasks to run a large web-based online study.
  - Investigated the individual differences and latent structure of planning decisions and modelled how planning is related to basic cognitive abilities.
+
+# Other projects:
 
 ## Using Artificail Neural Networks to Approximate Bayesian Inference
 Computational Cognitive Modelling final project, Center for Data Science, NYU (2021.2 — 2021.5)
