@@ -27,7 +27,7 @@ Computational Cognitive Modelling final project, Center for Data Science, NYU (2
 
 ## “Double Descent” and Deep Gaussian Processes
 Bayesian Machine Learning final project, Center for Data Science, NYU (2020.10 — 202012)
- - Investigated the “Double Descent” phenomenon in Deep Gaussian Processes by looking into performance of testing error as a function of model depth/width/kernel complexity![image](https://user-images.githubusercontent.com/61088044/191392120-2df22eb7-52bb-4d61-882b-e5f0e6b895af.png)
+ - Investigated the “Double Descent” phenomenon in Deep Gaussian Processes by looking into performance of testing error as a function of model depth/width/kernel complexity
 
 ## Hidden Markov Models
 Eero Simoncelli Lab, Center for Neural Science, NYU (2020.2 - 2020.9)
