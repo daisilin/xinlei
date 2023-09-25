@@ -4,8 +4,11 @@ permalink: "/projects/"
 layout: page
 ---
 # Thesis projects:
+## Learning How Humans Play Board Games with GPT-4IAR
+Wei Ji Ma lab + Luigi Acerbi lab, Department of Computer Science, University of Helsinki+ NYU (2023.6 — Present)
+ - Trained a GPT model on a  large mobile game dataset to understand and predict different characteristics of human gameplay.
 
-## Compare planning between AI and humans [[Talk]](/0314_CNS_Labtalk.pdf)
+## Compare planning between AI and humans 
 Wei Ji Ma lab, Center for Neural Science, NYU (2021.5 — Present)
  - Trained Deep Reinforcement learning models (AlphaZero type agents) to play a planning task of intermediate complexity.
  - Analyzed features learned by the trained Deep Reinforcement learning networks.
