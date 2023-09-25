@@ -4,7 +4,7 @@ permalink: "/projects/"
 layout: page
 ---
 # Thesis projects:
-## Learning How Humans Play Board Games with GPT-4IAR
+## Learning How Humans Play Board Games with GPT-4IAR [[Poster]](/GPT_4IAR__FCAI_AI_Day_2023_.pdf)
 Wei Ji Ma lab + Luigi Acerbi lab, Department of Computer Science, University of Helsinki+ NYU (2023.6 — Present)
  - Trained a GPT model on a  large mobile game dataset to understand and predict different characteristics of human gameplay.
 
