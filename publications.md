@@ -9,6 +9,9 @@ layout: page
 [X.Lin*, Z.Zheng*., J.Topping*, W.Ma, Comparing Machine And Human Learning In A Planning Task Of Intermediate Complexity](https://escholarship.org/uc/item/8wm748d8)(Proceedings of the Annual Meeting of the Cognitive Science Society, 2022)   
 
 ## Conferences
+Learning How Humans Play Board Games with GPT-4IAR (FCAI AI Day 2023) 
+![title](/GPT_4IAR_FCAI_AI_Day_2023.pdf)
+
 Comparing Machine And Human Learning In A Planning Task Of Intermediate Complexity (The Multi-disciplinary Conference on Reinforcement Learning and Decision Making, 2022; Proceedings of the Annual Meeting of the Cognitive Science Society, 2022; )
 
 ![title](/rldm2022.jpg)
