@@ -5,7 +5,7 @@ layout: page
 ---
 # Thesis projects:
 
-## Compare planning between AI and humans [[Talk]](xinlei/0314_CNS_Labtalk.pdf)
+## Compare planning between AI and humans [[Talk]](/0314_CNS_Labtalk.pdf)
 Wei Ji Ma lab, Center for Neural Science, NYU (2021.5 — Present)
  - Trained Deep Reinforcement learning models (AlphaZero type agents) to play a planning task of intermediate complexity.
  - Analyzed features learned by the trained Deep Reinforcement learning networks.
