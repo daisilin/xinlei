@@ -10,7 +10,7 @@ layout: page
 
 ## Conferences
 Learning How Humans Play Board Games with GPT-4IAR (FCAI AI Day 2023) 
-![title](/GPT_4IAR_FCAI_AI_Day_2023.pdf)
+![title](/GPT_4IAR_FCAI_AI_Day_2023.png)
 
 Comparing Machine And Human Learning In A Planning Task Of Intermediate Complexity (The Multi-disciplinary Conference on Reinforcement Learning and Decision Making, 2022; Proceedings of the Annual Meeting of the Cognitive Science Society, 2022; )
 
