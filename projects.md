@@ -27,7 +27,7 @@ Wei Ji Ma lab, Center for Neural Science, NYU (2020.10 — Present)
 
 # Other projects:
 
-## Using Artificail Neural Networks to Approximate Bayesian Inference
+## Using Artificail Neural Networks to Approximate Bayesian Inference  [[Paper]](/CCM_Final_Project.pdf)
 Computational Cognitive Modelling final project, Center for Data Science, NYU (2021.2 — 2021.5)
  - Trained artificial neural networks (ANNs) on a task that requires inductive reasoning and found that ANNs can perform these tasks using Bayesian-like strategies without the need for an explicit computation of the log likelihood
 
