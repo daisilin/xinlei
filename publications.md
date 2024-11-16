@@ -5,6 +5,9 @@ layout: page
 ---
 
 ## Publications
+[X. Lin, B. Lake,W.Ma, Limitations in Planning Ability in AlphaZero](https://openreview.net/forum?id=ZAbYb4jDJt)(NeurIPs 2024 Workshop)
+
+[V. Yeom-Song,X. Lin, I. Kuperwajs,H.Schütt, W.Ma, L.Acerbi, Learning how Humans Learn to Play Board Games with GPT-4IAR](AAAI workshop 2024; FCAI AI Day 2023)
 
 [X.Lin*, Z.Zheng*., J.Topping*, W.Ma, Comparing Machine And Human Learning In A Planning Task Of Intermediate Complexity](https://escholarship.org/uc/item/8wm748d8)(Proceedings of the Annual Meeting of the Cognitive Science Society, 2022)   
 
