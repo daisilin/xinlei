@@ -3,6 +3,10 @@ title: "Research Projects"
 permalink: "/projects/"
 layout: page
 ---
+## Improving LLM planning and reasoning in cross-domain benchmarks
+Amazon AGI Autonomy team
+ - Robustly improved LLM planning and reasoning in cross-domain benchmarks including science/math, day-to-day planning and games, with flexible tree-search and self-play methods.
+
 # Thesis projects:
 ## Learning How Humans Play Board Games with GPT-4IAR [[AAAI workshop]](/GPT_4IAR_AAAI_Submission.pdf)
 Wei Ji Ma lab + Luigi Acerbi lab, Department of Computer Science, University of Helsinki+ NYU (2023.6 — Present)
